@@ -6,13 +6,13 @@
 
     <groupId>com.example</groupId>
     <artifactId>my-project</artifactId>
-    <version>1.0.0</version>
+    <version> 3.9.6/version>
     <name>My Project</name>
     <description>This is a sample Maven project.</description>
-    <url>https://github.com/example/my-project</url>
+    <url>https://github.com/vahidr916/firstcode.git</url>
 
     <dependencies>
-        <!-- Example dependency -->
+
         <dependency>
             <groupId>org.example</groupId>
             <artifactId>example-library</artifactId>
@@ -22,7 +22,7 @@
 
     <build>
         <plugins>
-            <!-- Example plugin configuration -->
+          
             <plugin>
                 <groupId>org.apache.maven.plugins</groupId>
                 <artifactId>maven-compiler-plugin</artifactId>
